@@ -1,4 +1,5 @@
-
+//nya
 public class Piece {
-	
+
+
 }
